@@ -1,0 +1,1 @@
+This K8s application is a webApp that will communicate with a mongoDb database using configMap and secret components of the K8s. 
